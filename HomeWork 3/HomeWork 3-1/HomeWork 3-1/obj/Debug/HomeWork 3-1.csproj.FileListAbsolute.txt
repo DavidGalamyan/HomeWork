@@ -1,0 +1,7 @@
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 3\HomeWork 3-1\HomeWork 3-1\bin\Debug\HomeWork 3-1.exe.config
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 3\HomeWork 3-1\HomeWork 3-1\bin\Debug\HomeWork 3-1.exe
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 3\HomeWork 3-1\HomeWork 3-1\bin\Debug\HomeWork 3-1.pdb
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 3\HomeWork 3-1\HomeWork 3-1\obj\Debug\HomeWork 3-1.csprojAssemblyReference.cache
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 3\HomeWork 3-1\HomeWork 3-1\obj\Debug\HomeWork 3-1.csproj.CoreCompileInputs.cache
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 3\HomeWork 3-1\HomeWork 3-1\obj\Debug\HomeWork 3-1.exe
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 3\HomeWork 3-1\HomeWork 3-1\obj\Debug\HomeWork 3-1.pdb
