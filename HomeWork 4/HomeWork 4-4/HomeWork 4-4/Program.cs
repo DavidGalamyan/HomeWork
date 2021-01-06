@@ -24,26 +24,3 @@ namespace HelloWorld
         }
     }
 }
-
-
-/*namespace HelloWorld
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine(GetFactorial(5));
-        }
-
-
-        static int GetFactorial(int number)
-        {
-            if (number == 1)
-            {
-                return number;
-            }
-            return number * GetFactorial(number - 1);
-        }
-    }
-}*/
-
