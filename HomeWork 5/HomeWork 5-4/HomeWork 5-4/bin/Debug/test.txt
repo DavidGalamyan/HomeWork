@@ -1,0 +1,23 @@
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-4\HomeWork 5-4\bin
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-4\HomeWork 5-4\obj
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-4\HomeWork 5-4\Properties
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-4\HomeWork 5-4\bin\Debug
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-4\HomeWork 5-4\bin\Release
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-4\HomeWork 5-4\obj\Debug
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-4\HomeWork 5-4\obj\Debug\TempPE
+
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-4\HomeWork 5-4\App.config
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-4\HomeWork 5-4\HomeWork 5-4.csproj
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-4\HomeWork 5-4\Program.cs
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-4\HomeWork 5-4\bin\Debug\HomeWork 5-4.exe
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-4\HomeWork 5-4\bin\Debug\HomeWork 5-4.exe.config
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-4\HomeWork 5-4\bin\Debug\HomeWork 5-4.pdb
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-4\HomeWork 5-4\bin\Debug\test.txt
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-4\HomeWork 5-4\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-4\HomeWork 5-4\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-4\HomeWork 5-4\obj\Debug\HomeWork 5-4.csproj.CoreCompileInputs.cache
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-4\HomeWork 5-4\obj\Debug\HomeWork 5-4.csproj.FileListAbsolute.txt
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-4\HomeWork 5-4\obj\Debug\HomeWork 5-4.csprojAssemblyReference.cache
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-4\HomeWork 5-4\obj\Debug\HomeWork 5-4.exe
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-4\HomeWork 5-4\obj\Debug\HomeWork 5-4.pdb
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-4\HomeWork 5-4\Properties\AssemblyInfo.cs

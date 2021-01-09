@@ -1,0 +1,18 @@
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-5.1\HomeWork 5-5.1\bin\Debug\HomeWork 5-5.1.exe.config
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-5.1\HomeWork 5-5.1\bin\Debug\HomeWork 5-5.1.exe
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-5.1\HomeWork 5-5.1\bin\Debug\HomeWork 5-5.1.pdb
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-5.1\HomeWork 5-5.1\obj\Debug\HomeWork 5-5.1.csproj.CoreCompileInputs.cache
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-5.1\HomeWork 5-5.1\obj\Debug\HomeWork 5-5.1.exe
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-5.1\HomeWork 5-5.1\obj\Debug\HomeWork 5-5.1.pdb
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-5.1\HomeWork 5-5.1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-5.1\HomeWork 5-5.1\bin\Debug\System.Memory.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-5.1\HomeWork 5-5.1\bin\Debug\System.Text.Json.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-5.1\HomeWork 5-5.1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-5.1\HomeWork 5-5.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-5.1\HomeWork 5-5.1\bin\Debug\System.Buffers.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-5.1\HomeWork 5-5.1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-5.1\HomeWork 5-5.1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-5.1\HomeWork 5-5.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-5.1\HomeWork 5-5.1\obj\Debug\HomeWork 5-5.1.csprojAssemblyReference.cache
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-5.1\HomeWork 5-5.1\obj\Debug\HomeWork 5-5.1.exe.config
+C:\Users\Mons-Pc\source\repos\HomeWork\HomeWork 5\HomeWork 5-5.1\HomeWork 5-5.1\obj\Debug\HomeWork 5-5.1.csproj.CopyComplete
