@@ -1,0 +1,6 @@
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms\Algorithms 1-1\Algorithms 1-4\bin\Debug\Algorithms 1-4.exe.config
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms\Algorithms 1-1\Algorithms 1-4\bin\Debug\Algorithms 1-4.exe
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms\Algorithms 1-1\Algorithms 1-4\bin\Debug\Algorithms 1-4.pdb
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms\Algorithms 1-1\Algorithms 1-4\obj\Debug\Algorithms 1-3.csproj.CoreCompileInputs.cache
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms\Algorithms 1-1\Algorithms 1-4\obj\Debug\Algorithms 1-4.exe
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms\Algorithms 1-1\Algorithms 1-4\obj\Debug\Algorithms 1-4.pdb

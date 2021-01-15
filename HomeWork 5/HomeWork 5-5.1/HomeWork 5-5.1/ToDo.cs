@@ -6,22 +6,59 @@ using System.Threading.Tasks;
 
 namespace HomeWork_5_5._1
 {
+    /// <summary>
+    /// Класс описывающий задачи
+    /// </summary>
     public class ToDo
     {
-        private string Title;
+        public string Title { get; set; }
 
-        private string IsDone;
+        public bool IsDone { get; set; }
+                
+        public ToDo(string title, bool isdone = false)
+        {
+            IsDone = isdone;
+            Title = title;            
+        }
+        /// <summary>
+        /// Вывод задачи на консоль
+        /// </summary>
+        public void Print(int i)
+        {
+            string status = IsDone ? "[x]" : "[ ]";
+            string output = String.Format("{0}\t {1}\t\t{2}",i, status, Title);
+            Console.WriteLine(output);
+        }
+        /// <summary>
+        /// Добавление новой задачи
+        /// </summary>
+        /// <returns></returns>
+        public static ToDo CreateNewTask()
+        {            
+            Console.WriteLine("\nВведите название задачи");           
+            return new ToDo(Console.ReadLine());
+        }
+        /// <summary>
+        /// Меняем задачу
+        /// </summary>
+        public void  ChangeTitle()
+        {
+            Console.WriteLine("\nВведите новое название задачи");
+            Title = Console.ReadLine();
+        }
+        /// <summary>
+        /// Изменяем статус с false на true
+        /// </summary>
+        public void ChangeStatus()
+        {
+            IsDone = !IsDone;
+        }
+        /// <summary>
+        /// Конструктор для десерилизаци
+        /// </summary>
+        public ToDo()
+        {
 
-            public ToDo(string isdone, string title)
-            {
-                IsDone = isdone;
-                Title = title;
-            }
-
-            public ToDo()
-            { }
-
-
-        
+        }
     }
 }
