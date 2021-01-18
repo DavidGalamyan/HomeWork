@@ -1,0 +1,2 @@
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms\Algorithms 1-1\Algorithms 1-1\obj\Debug\Algorithms 1-2.csprojAssemblyReference.cache
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms\Algorithms 1-1\Algorithms 1-1\obj\Debug\Algorithms 1-2.csproj.CoreCompileInputs.cache

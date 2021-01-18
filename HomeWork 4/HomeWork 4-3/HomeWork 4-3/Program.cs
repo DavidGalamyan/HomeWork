@@ -17,6 +17,8 @@ namespace HomeWork_4_3
         }       
         static string SeasMonth (int num)
         {
+            
+
             switch (num)
             {
                 case 1:
@@ -50,7 +52,21 @@ namespace HomeWork_4_3
             int nummonth = Convert.ToInt32(Console.ReadLine());
             nummonth = Num(nummonth);
             Console.WriteLine(SeasMonth(nummonth));
-            
+            season s;
+            switch (s)
+            {
+                case season.Winter:
+                     break; 
+                case season.Spring:
+                    break;
+                case season.Summer:
+                    break;
+                case season.Autumn:
+                    break;
+                default:
+                    break;
+            }
+
         }
 
 
