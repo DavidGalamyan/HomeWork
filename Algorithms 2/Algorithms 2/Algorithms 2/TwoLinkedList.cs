@@ -23,13 +23,13 @@ namespace Algorithms_2
                 }
                 Node newNode = new Node { Value = value, PrevNode = node };
                 node.NextNode = newNode;
-                endNode = newNode;                
+                endNode = newNode;
             }
             else
             {
                 Node newNode = new Node { Value = value };
                 startNode = newNode;
-                endNode = newNode;                
+                endNode = newNode;
             }
             Count++;
         }
@@ -42,13 +42,13 @@ namespace Algorithms_2
                 if (searchNode.NextNode != null)
                 {
                     Node newNode = new Node { Value = value, PrevNode = searchNode, NextNode = searchNode.NextNode };
-                    searchNode.NextNode = newNode;                    
+                    searchNode.NextNode = newNode;
                 }
                 else
                 {
                     Node newNode = new Node { Value = value, PrevNode = searchNode };
                     searchNode.NextNode = newNode;
-                    endNode = newNode;                   
+                    endNode = newNode;
                 }
                 Count++;
             }
@@ -59,7 +59,7 @@ namespace Algorithms_2
         public Node FindNode(int searchValue) // ищет элемент по его значению
         {
             var searchNode = startNode;
-            for (int i = 0; i < Count - 1; i++)                        
+            for (int i = 0; i < Count - 1; i++)
             {
                 if (searchValue == searchNode.Value)
                 {
@@ -68,24 +68,24 @@ namespace Algorithms_2
                 searchNode = searchNode.NextNode;
             }
             Console.WriteLine("Элемент не найден");
-            return null; 
+            return null;
         }
 
         public int GetCount() // Возращаем количество элементов в списке
-        {            
-            return Count;           
+        {
+            return Count;
         }
 
         public void RemoveNode(int index) // удаляет элемент по порядковому номеру
         {
-            if (index < 0 || index >= Count) throw new IndexOutOfRangeException(); 
+            if (index < 0 || index >= Count) throw new IndexOutOfRangeException();
             var node = startNode;
             if (Count == 0) return;
             if (index == 0)
-            { 
-              startNode.NextNode.PrevNode = null;
-              startNode = startNode.NextNode;
-              Count--;
+            {
+                startNode.NextNode.PrevNode = null;
+                startNode = startNode.NextNode;
+                Count--;
             }
             if (index == Count - 1)
             {
@@ -97,14 +97,14 @@ namespace Algorithms_2
             {
                 node = node.NextNode;
                 if (i == index)
-                {                    
+                {
                     node.NextNode.PrevNode = node.PrevNode;
                     node.PrevNode.NextNode = node.NextNode;
                     Count--;
                     break;
                 }
-            }            
-        }   
+            }
+        }
 
         public void RemoveNode(Node node) // удаляет указанный элемент
         {
@@ -114,20 +114,20 @@ namespace Algorithms_2
                 if (searchNode.NextNode != null && searchNode.PrevNode != null)
                 {
                     searchNode.NextNode.PrevNode = searchNode.PrevNode;
-                    searchNode.PrevNode.NextNode = searchNode.NextNode;                   
+                    searchNode.PrevNode.NextNode = searchNode.NextNode;
                 }
                 if (searchNode == startNode)
                 {
                     searchNode.NextNode.PrevNode = null;
-                    startNode = searchNode.NextNode;                    
+                    startNode = searchNode.NextNode;
                 }
                 if (searchNode == endNode)
                 {
                     searchNode.PrevNode.NextNode = null;
-                    endNode = searchNode.PrevNode;                    
+                    endNode = searchNode.PrevNode;
                 }
                 Count--;
-            }            
-        }       
+            }
+        }
     }
 }
