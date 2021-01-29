@@ -1,0 +1,87 @@
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\obj\Release\Algorithms 3.csprojAssemblyReference.cache
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\obj\Release\Algorithms 3.csproj.CoreCompileInputs.cache
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\OSExtensions.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\x86\KernelTraceControl.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\x86\KernelTraceControl.Win61.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\x86\msdia140.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\amd64\KernelTraceControl.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\amd64\msdia140.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\TraceReloggerLib.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\Dia2Lib.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\Algorithms 3.exe.config
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\Algorithms 3.exe
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\Algorithms 3.pdb
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\BenchmarkDotNet.Annotations.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\BenchmarkDotNet.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\CommandLine.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\Iced.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\Microsoft.CodeAnalysis.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\Microsoft.Diagnostics.NETCore.Client.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\Microsoft.Diagnostics.Runtime.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\Microsoft.Win32.Registry.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\Perfolizer.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\System.Buffers.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\System.Collections.Immutable.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\System.Memory.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\System.Reflection.Metadata.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\System.Security.AccessControl.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\System.Text.Encoding.CodePages.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\System.ValueTuple.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\BenchmarkDotNet.xml
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\BenchmarkDotNet.Annotations.xml
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\CommandLine.xml
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\Iced.xml
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\Microsoft.CodeAnalysis.pdb
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\Microsoft.CodeAnalysis.xml
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\Microsoft.Diagnostics.FastSerialization.xml
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\Microsoft.Diagnostics.NETCore.Client.xml
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\Microsoft.Diagnostics.Runtime.pdb
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\Microsoft.Diagnostics.Runtime.xml
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\Microsoft.Diagnostics.Tracing.TraceEvent.xml
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\System.Buffers.xml
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\System.Collections.Immutable.xml
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\System.Memory.xml
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\System.Reflection.Metadata.xml
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\System.ValueTuple.xml
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\bin\Release\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\obj\Release\Algorithms 3.csproj.CopyComplete
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\obj\Release\Algorithms 3.exe
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 3\Algorithms 3\obj\Release\Algorithms 3.pdb

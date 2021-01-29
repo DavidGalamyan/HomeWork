@@ -1,0 +1,13 @@
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 4\Algorithms 4 Core\Algorithms 4 Core\bin\Debug\netcoreapp3.1\Algorithms 4 Core.exe
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 4\Algorithms 4 Core\Algorithms 4 Core\bin\Debug\netcoreapp3.1\Algorithms 4 Core.deps.json
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 4\Algorithms 4 Core\Algorithms 4 Core\bin\Debug\netcoreapp3.1\Algorithms 4 Core.runtimeconfig.json
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 4\Algorithms 4 Core\Algorithms 4 Core\bin\Debug\netcoreapp3.1\Algorithms 4 Core.runtimeconfig.dev.json
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 4\Algorithms 4 Core\Algorithms 4 Core\bin\Debug\netcoreapp3.1\Algorithms 4 Core.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 4\Algorithms 4 Core\Algorithms 4 Core\bin\Debug\netcoreapp3.1\Algorithms 4 Core.pdb
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 4\Algorithms 4 Core\Algorithms 4 Core\obj\Debug\netcoreapp3.1\Algorithms 4 Core.csprojAssemblyReference.cache
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 4\Algorithms 4 Core\Algorithms 4 Core\obj\Debug\netcoreapp3.1\Algorithms 4 Core.AssemblyInfoInputs.cache
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 4\Algorithms 4 Core\Algorithms 4 Core\obj\Debug\netcoreapp3.1\Algorithms 4 Core.AssemblyInfo.cs
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 4\Algorithms 4 Core\Algorithms 4 Core\obj\Debug\netcoreapp3.1\Algorithms 4 Core.csproj.CoreCompileInputs.cache
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 4\Algorithms 4 Core\Algorithms 4 Core\obj\Debug\netcoreapp3.1\Algorithms 4 Core.dll
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 4\Algorithms 4 Core\Algorithms 4 Core\obj\Debug\netcoreapp3.1\Algorithms 4 Core.pdb
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 4\Algorithms 4 Core\Algorithms 4 Core\obj\Debug\netcoreapp3.1\Algorithms 4 Core.genruntimeconfig.cache
