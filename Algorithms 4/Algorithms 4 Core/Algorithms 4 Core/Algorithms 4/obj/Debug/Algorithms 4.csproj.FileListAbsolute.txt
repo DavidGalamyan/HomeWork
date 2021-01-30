@@ -1,0 +1,7 @@
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 4\Algorithms 4 Core\Algorithms 4 Core\Algorithms 4\obj\Debug\Algorithms 4.csprojAssemblyReference.cache
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 4\Algorithms 4 Core\Algorithms 4 Core\Algorithms 4\obj\Debug\Algorithms 4.csproj.CoreCompileInputs.cache
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 4\Algorithms 4 Core\Algorithms 4 Core\Algorithms 4\bin\Debug\Algorithms 4.exe.config
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 4\Algorithms 4 Core\Algorithms 4 Core\Algorithms 4\bin\Debug\Algorithms 4.exe
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 4\Algorithms 4 Core\Algorithms 4 Core\Algorithms 4\bin\Debug\Algorithms 4.pdb
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 4\Algorithms 4 Core\Algorithms 4 Core\Algorithms 4\obj\Debug\Algorithms 4.exe
+C:\Users\Mons-Pc\source\repos\HomeWork\Algorithms 4\Algorithms 4 Core\Algorithms 4 Core\Algorithms 4\obj\Debug\Algorithms 4.pdb
